@@ -40,5 +40,5 @@ Eigendecomposition punya karakteristik yaitu matrix adalah singular jika dan han
 Eigendecomposition tidak bisa diterapkan di semua operasi matrix Di kasus tertentu eigendecomposition bahkan melibatkan angka lebih kompleks. 
 Dalam kasus machine learning, bakal sering menemui matrix berbentuk real symmetric matrix, di mana dengan mudah dan efisien untuk melakukan decomposed ke real-only eigenvectors dan real-only eigenvalues. 
 Kalau A adalah real symmetric matrix maka equation-nya.
-_**Referensi : Modul Binar Academy, untuk lebih lanjut silahkan buka Calculu.py**_
+_**Referensi : Modul Binar Academy, untuk lebih lanjut silahkan buka pengaplikasian_matrix.py**_
 
